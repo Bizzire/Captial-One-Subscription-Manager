@@ -15,7 +15,7 @@ const SubscriptionsTable = () => {
       <Table sx={{ minWidth: 650 }} size="small" aria-label="a dense table">
         <TableHead>
           <TableRow>
-            <TableCell>Total Subscriptions</TableCell>
+            <TableCell>Subscriptions</TableCell>
             <TableCell align="left">Start Date</TableCell>
             <TableCell align="left">Cost</TableCell>
             <TableCell align="left">Handle</TableCell>
